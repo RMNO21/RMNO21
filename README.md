@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 **Background**: Computer Engineering student with hands-on expertise in **Electrical & Computer Technology**, bridging low-level hardware design and high-performance software engineering.
-* ⚡ **Core Specialties**: **Embedded Systems & Microcontrollers (ESP32/Arduino)**, **Android Development (Kotlin)**, **High-End Media Engines (MPV/FFmpeg/GLSL)**, **Computer Vision (OpenCV)**, **Hardware & Wireless Security**, and **Workflow Automation**.
+* ⚡ **Core Specialties**: **Computer Vision & Human-Computer Interaction (MediaPipe/OpenCV)**, **Embedded Systems & Microcontrollers (ESP32/Arduino)**, **Android Development (Kotlin)**, **High-End Media Engines (MPV/FFmpeg/GLSL)**, **Hardware & Wireless Security**, and **Workflow Automation**.
 * 💡 **Engineering Philosophy**: Building frictionless, resilient, and visually exceptional systems — from bare-metal firmware and computer vision safety nets to zero-delay Android music players and cinematic media renderers.
 * 📍 **Location**: Iran | Open to global open-source collaborations, tech discussions, and impactful software/hardware engineering roles.
 
@@ -63,12 +63,21 @@
 
 ---
 
+### 🌟 Spotlight Flagship Project
+
+| Project | Description | Stack | Link |
+| :--- | :--- | :--- | :---: |
+| 🖱️ **[ai-virtual-mouse](https://github.com/RMNO21/ai-virtual-mouse)** | Ultra-fast, lightweight, and jitter-free computer vision virtual mouse for Windows with decoupled ergonomic gestures, zero click drift, sub-pixel multi-tier ballistics, and 0% standby CPU. | `Python` `MediaPipe` `OpenCV` `Win32` | [💾 Repo](https://github.com/RMNO21/ai-virtual-mouse) |
+
+---
+
 ### 🔥 Featured Projects & Ecosystem
 
 #### 📺 Media, Video Processing & Audio Engines
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
 | 📺 **[RMN_Player](https://github.com/RMNO21/RMN_Player)** | Ultimate custom media player setup optimized for movies & TV series with universal cinematic Ambilight glow, OLED true blacks, automated episode progression tracking, and dual EN/FA keybindings. | `Lua` `MPV` `FFmpeg` `GLSL` | [💾 Repo](https://github.com/RMNO21/RMN_Player) |
+| 🛡️ **[DimOLED](https://github.com/RMNO21/DimOLED)** | Zero-flicker Windows background utility to protect OLED screens from burn-in by auto-dimming physical brightness. | `AutoHotkey` `Win32` `OLED` | [💾 Repo](https://github.com/RMNO21/DimOLED) |
 | 🎵 **[sepotify](https://github.com/RMNO21/sepotify)** | High-fidelity, zero-delay music streaming and playback experience designed natively for Android. | `Kotlin` `Android` `Audio` | [💾 Repo](https://github.com/RMNO21/sepotify) |
 | 🎬 **[Mort](https://github.com/RMNO21/Mort)** | Intelligent media automation engine that automatically groups, categorizes, tags, and organizes MKV movies and multi-season TV series. | `Python` `Automation` | [💾 Repo](https://github.com/RMNO21/Mort) |
 | 🗜️ **[video-compress](https://github.com/RMNO21/video-compress)** | Smart multi-pass FFmpeg compression tool reducing video sizes by over 50% without perceivable quality loss. | `Python` `FFmpeg` | [💾 Repo](https://github.com/RMNO21/video-compress) |
@@ -89,6 +98,7 @@
 #### 🛡️ Cybersecurity, Networking & System Automation
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
+| 📶 **[wifi-auto-reconnect](https://github.com/RMNO21/wifi-auto-reconnect)** | Ultra-low-power, event-driven Wi-Fi auto-reconnect service for Windows with instant zero-lag reconnection. | `PowerShell` `Win32` `WLAN` | [💾 Repo](https://github.com/RMNO21/wifi-auto-reconnect) |
 | 👁️ **[Drawsiness-detection](https://github.com/RMNO21/Drawsiness-detection)** | Real-time driver safety monitoring system tracking ocular blink rates and facial landmarks via computer vision to prevent road fatigue. | `Python` `OpenCV` | [💾 Repo](https://github.com/RMNO21/Drawsiness-detection) |
 | 📰 **[daily-tech-digest](https://github.com/RMNO21/daily-tech-digest)** | Automated Daily Tech & AI News Digest generator and publisher driven entirely by GitHub Actions workflows. | `Python` `CI/CD` `AI` | [💾 Repo](https://github.com/RMNO21/daily-tech-digest) |
 | 🔑 **[wordlist-tool](https://github.com/RMNO21/wordlist-tool)** | Fast, pattern-customizable dictionary generator for security auditing and penetration testing. | `Python` `Security` | [💾 Repo](https://github.com/RMNO21/wordlist-tool) |
