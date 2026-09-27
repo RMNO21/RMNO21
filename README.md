@@ -63,14 +63,6 @@
 
 ---
 
-### 🌟 Spotlight Flagship Project
-
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 🖱️ **[ai-virtual-mouse](https://github.com/RMNO21/ai-virtual-mouse)** | Ultra-fast, lightweight, and jitter-free computer vision virtual mouse for Windows with decoupled ergonomic gestures, zero click drift, sub-pixel multi-tier ballistics, and 0% standby CPU. | `Python` `MediaPipe` `OpenCV` `Win32` | [💾 Repo](https://github.com/RMNO21/ai-virtual-mouse) |
-
----
-
 ### 🔥 Featured Projects & Ecosystem
 
 #### 📺 Media, Video Processing & Audio Engines
@@ -98,6 +90,7 @@
 #### 🛡️ Cybersecurity, Networking & System Automation
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
+| 🖱️ **[ai-virtual-mouse](https://github.com/RMNO21/ai-virtual-mouse)** | Lightweight, jitter-free computer vision virtual mouse for Windows using MediaPipe, decoupled gestures, and Win32 APIs. | `Python` `MediaPipe` `OpenCV` | [💾 Repo](https://github.com/RMNO21/ai-virtual-mouse) |
 | 📶 **[wifi-auto-reconnect](https://github.com/RMNO21/wifi-auto-reconnect)** | Ultra-low-power, event-driven Wi-Fi auto-reconnect service for Windows with instant zero-lag reconnection. | `PowerShell` `Win32` `WLAN` | [💾 Repo](https://github.com/RMNO21/wifi-auto-reconnect) |
 | 👁️ **[Drawsiness-detection](https://github.com/RMNO21/Drawsiness-detection)** | Real-time driver safety monitoring system tracking ocular blink rates and facial landmarks via computer vision to prevent road fatigue. | `Python` `OpenCV` | [💾 Repo](https://github.com/RMNO21/Drawsiness-detection) |
 | 📰 **[daily-tech-digest](https://github.com/RMNO21/daily-tech-digest)** | Automated Daily Tech & AI News Digest generator and publisher driven entirely by GitHub Actions workflows. | `Python` `CI/CD` `AI` | [💾 Repo](https://github.com/RMNO21/daily-tech-digest) |
