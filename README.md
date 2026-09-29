@@ -4,6 +4,7 @@
   <h3>🚀 Computer Engineering Student | Embedded Systems, Mobile & Media Pipeline Engineer</h3>
 
   <p align="center">
+    <a href="https://rmno21.github.io"><img src="https://img.shields.io/badge/Official_Website-rmno21.github.io-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website"></a>
     <a href="https://github.com/RMNO21"><img src="https://img.shields.io/github/followers/RMNO21?color=2ea44f&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"></a>
     <a href="https://github.com/RMNO21?tab=repositories"><img src="https://img.shields.io/github/stars/RMNO21?color=dfb317&style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub Stars"></a>
     <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20Android%20%7C%20Media%20Eng-8A2BE2?style=for-the-badge" alt="Focus Area">
@@ -14,6 +15,8 @@
 
 ### 👨‍💻 About Me
 
+* 🌐 **Official Website & Biography**: [rmno21.github.io](https://rmno21.github.io)
+* 🇮🇷 **هویت و بیوگرافی رسمی (Persian Identity)**: **رامان تندرو (Raman Tondro)** - دانشجوی مهندسی کامپیوتر و تکنسین برق و کامپیوتر دانشگاه شیراز.
 * 🎓 **Background**: Computer Engineering student with hands-on expertise in **Electrical & Computer Technology**, bridging low-level hardware design and high-performance software engineering.
 * ⚡ **Core Specialties**: **Computer Vision & Human-Computer Interaction (MediaPipe/OpenCV)**, **Embedded Systems & Microcontrollers (ESP32/Arduino)**, **Android Development (Kotlin)**, **High-End Media Engines (MPV/FFmpeg/GLSL)**, **Hardware & Wireless Security**, and **Workflow Automation**.
 * 💡 **Engineering Philosophy**: Building frictionless, resilient, and visually exceptional systems — from bare-metal firmware and computer vision safety nets to zero-delay Android music players and cinematic media renderers.
@@ -117,6 +120,9 @@
 ### 📫 Connect With Me
 
 <p align="left">
+  <a href="https://rmno21.github.io">
+    <img src="https://img.shields.io/badge/Website-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
   <a href="mailto:tondroraman83@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
