@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 * 🌐 **Official Website & Biography**: [rmno21.github.io](https://rmno21.github.io)
-* 🇮🇷 **هویت و بیوگرافی رسمی (Persian Identity)**: **رامان تندرو (Raman Tondro)** - دانشجوی مهندسی کامپیوتر و تکنسین برق و کامپیوتر دانشگاه شیراز.
+* 🇮🇷 **هویت و بیوگرافی رسمی (Persian Identity)**: **رامان تندرو (Raman Tondro)** - دانشجوی مهندسی کامپیوتر و تکنسین برق و کامپیوتر.
 * 🎓 **Background**: Computer Engineering student with hands-on expertise in **Electrical & Computer Technology**, bridging low-level hardware design and high-performance software engineering.
 * ⚡ **Core Specialties**: **Computer Vision & Human-Computer Interaction (MediaPipe/OpenCV)**, **Embedded Systems & Microcontrollers (ESP32/Arduino)**, **Android Development (Kotlin)**, **High-End Media Engines (MPV/FFmpeg/GLSL)**, **Hardware & Wireless Security**, and **Workflow Automation**.
 * 💡 **Engineering Philosophy**: Building frictionless, resilient, and visually exceptional systems — from bare-metal firmware and computer vision safety nets to zero-delay Android music players and cinematic media renderers.
