@@ -7,6 +7,7 @@
     <a href="https://rmno21.github.io"><img src="https://img.shields.io/badge/Official_Website-rmno21.github.io-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Official Website"></a>
     <a href="https://orcid.org/0009-0008-3052-1874"><img src="https://img.shields.io/badge/ORCID-0009--0008--3052--1874-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID iD"></a>
     <a href="https://www.wikidata.org/wiki/Q141601053"><img src="https://img.shields.io/badge/Wikidata-Q141601053-006699?style=for-the-badge&logo=wikidata&logoColor=white" alt="Wikidata"></a>
+    <a href="https://www.youtube.com/@RMNT21"><img src="https://img.shields.io/badge/YouTube-@RMNT21-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
     <a href="https://github.com/RMNO21"><img src="https://img.shields.io/github/followers/RMNO21?color=2ea44f&style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"></a>
     <a href="https://github.com/RMNO21?tab=repositories"><img src="https://img.shields.io/github/stars/RMNO21?color=dfb317&style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub Stars"></a>
     <img src="https://img.shields.io/badge/Focus-Embedded%20%7C%20Android%20%7C%20Media%20Eng-8A2BE2?style=for-the-badge" alt="Focus Area">
@@ -20,6 +21,7 @@
 * 🌐 **Official Website & Biography**: [rmno21.github.io](https://rmno21.github.io)
 * 🆔 **Verified ORCID Identifier**: [0009-0008-3052-1874](https://orcid.org/0009-0008-3052-1874)
 * 📚 **Wikidata Official Entity**: [Q141601053](https://www.wikidata.org/wiki/Q141601053)
+* 📺 **YouTube Channel**: [@RMNT21](https://www.youtube.com/@RMNT21)
 * 🇮🇷 **هویت و بیوگرافی رسمی (Persian Identity)**: **رامان تندرو (Raman Tondro)** - دانشجوی مهندسی کامپیوتر و تکنسین برق و کامپیوتر.
 * 🎓 **Background**: Computer Engineering student with hands-on expertise in **Electrical & Computer Technology**, bridging low-level hardware design and high-performance software engineering.
 * ⚡ **Core Specialties**: **Computer Vision & Human-Computer Interaction (MediaPipe/OpenCV)**, **Embedded Systems & Microcontrollers (ESP32/Arduino)**, **Android Development (Kotlin)**, **High-End Media Engines (MPV/FFmpeg/GLSL)**, **Hardware & Wireless Security**, and **Workflow Automation**.
