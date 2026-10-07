@@ -140,6 +140,6 @@
 <p align="center"><i>"Building things that matter — bridging hardware circuits and low-level software architecture."</i></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RMNO21&color=0e75b6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RMNO21&color=0e75b6&style=flat-square&label=Profile+Views&base=1000" alt="Profile Views" />
 </p>
 
