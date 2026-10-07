@@ -79,7 +79,7 @@
 | :--- | :--- | :--- | :---: |
 | 📺 **[RMN_Player](https://github.com/RMNO21/RMN_Player)** | Ultimate custom media player setup optimized for movies & TV series with universal cinematic Ambilight glow, OLED true blacks, automated episode progression tracking, and dual EN/FA keybindings. | `Lua` `MPV` `FFmpeg` `GLSL` | [💾 Repo](https://github.com/RMNO21/RMN_Player) |
 | 🛡️ **[DimOLED](https://github.com/RMNO21/DimOLED)** | Zero-flicker Windows background utility to protect OLED screens from burn-in by auto-dimming physical brightness. | `AutoHotkey` `Win32` `OLED` | [💾 Repo](https://github.com/RMNO21/DimOLED) |
-| 🎵 **[sepotify](https://github.com/RMNO21/sepotify)** | High-fidelity, zero-delay music streaming and playback experience designed natively for Android. | `Kotlin` `Android` `Audio` | [💾 Repo](https://github.com/RMNO21/sepotify) |
+| 🎵 **[Sepotify](https://github.com/RMNO21/Sepotify)** | High-fidelity, zero-delay music streaming and playback experience designed natively for Android. | `Kotlin` `Android` `Audio` | [💾 Repo](https://github.com/RMNO21/sepotify) |
 | 🎬 **[Mort](https://github.com/RMNO21/Mort)** | Intelligent media automation engine that automatically groups, categorizes, tags, and organizes MKV movies and multi-season TV series. | `Python` `Automation` | [💾 Repo](https://github.com/RMNO21/Mort) |
 | 🗜️ **[video-compress](https://github.com/RMNO21/video-compress)** | Smart multi-pass FFmpeg compression tool reducing video sizes by over 50% without perceivable quality loss. | `Python` `FFmpeg` | [💾 Repo](https://github.com/RMNO21/video-compress) |
 | 🎵 **[SpotiDuck](https://github.com/RMNO21/SpotiDuck)** | Lightweight web extension enhancing Spotify web playback and user experience. | `JavaScript` `Web` | [💾 Repo](https://github.com/RMNO21/SpotiDuck) |
@@ -134,6 +134,15 @@
   </a>
   <a href="https://github.com/RMNO21">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/RMNT21">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.youtube.com/@RMNT21">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://virgool.io/@ramantondro">
+    <img src="https://img.shields.io/badge/Virgool-0080FF?style=for-the-badge&logo=medium&logoColor=white" alt="Virgool" />
   </a>
 </p>
 
